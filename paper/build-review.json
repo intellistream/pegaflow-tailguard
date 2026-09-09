@@ -1,0 +1,11 @@
+{
+  "schema": "paper-build-review/v1",
+  "compiler": "Tectonic 0.17.0 aarch64 Linux",
+  "entrypoint": "paper/main.tex",
+  "sha256": "28e33c5599f826e827157ba71d6505a3476fae1f026f7c6ca333f440502d833e",
+  "pages": 1,
+  "undefined_citations": false,
+  "overfull_boxes": 0,
+  "visual_review": "Rendered affected pages inspected; no clipped content. Proposal PDFs may retain short reference continuation pages.",
+  "evidence_scope": "Document compilation and visual inspection only; not runtime or performance validation."
+}
